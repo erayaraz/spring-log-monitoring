@@ -36,5 +36,9 @@ The Docker-compose file contains environment variables that configure the servic
 # Acknowledgments
 This project was inspired by the official Elasticsearch Docker image and the following blog post: https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch-with-logs.
 
+<!-- CONTACT -->
+# Contact
+Eray Araz - [@erayaraz](https://www.linkedin.com/in/erayaraz/) - erayaraz10@gmail.com
+
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
